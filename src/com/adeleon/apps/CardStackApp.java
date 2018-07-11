@@ -89,6 +89,7 @@ public class CardStackApp {
         stack.push("Jack of Hearts");
         stack.push("Queen of Hearts");
         stack.push("King of Hearts");
+        stack.push("Test of the Source");
     }
 
     public void unstackCards() {
